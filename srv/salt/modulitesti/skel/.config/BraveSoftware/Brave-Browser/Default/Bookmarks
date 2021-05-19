@@ -1,0 +1,54 @@
+{
+   "checksum": "89e6c7eda709da068c9aad8c106a9e7f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265863851744968",
+            "guid": "fbb6d345-e793-4e41-afaf-f7edb9460057",
+            "id": "5",
+            "name": "FlashScore: Ice Hockey Scores, Live Ice Hockey Results",
+            "type": "url",
+            "url": "https://www.flashscore.co.uk/hockey/"
+         }, {
+            "date_added": "13265863876181932",
+            "guid": "c88f58c3-ec3a-4270-9575-bbf7242d566e",
+            "id": "6",
+            "name": "Haaga-Helia Moodle: Log in to the site",
+            "type": "url",
+            "url": "https://hhmoodle.haaga-helia.fi/login/index.php"
+         }, {
+            "date_added": "13265863904128716",
+            "guid": "9c90c2a6-5205-4b66-bd01-83183a669e9c",
+            "id": "7",
+            "name": "Gmail – sähköposti Googlelta",
+            "type": "url",
+            "url": "https://www.google.com/intl/fi/gmail/about/#"
+         } ],
+         "date_added": "13265863791321715",
+         "date_modified": "13265863904128716",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13265863791321716",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13265863791321718",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
